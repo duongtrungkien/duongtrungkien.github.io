@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.83f0a518.css",
   "main.css.map": "static/css/main.83f0a518.css.map",
-  "main.js": "static/js/main.dc4c141e.js",
-  "main.js.map": "static/js/main.dc4c141e.js.map",
+  "main.js": "static/js/main.3be8a2f9.js",
+  "main.js.map": "static/js/main.3be8a2f9.js.map",
   "static/media/DSL.png": "static/media/DSL.b518eab5.png",
   "static/media/Header-background.jpg": "static/media/Header-background.1b9221d2.jpg",
   "static/media/HtmlCSS.jpeg": "static/media/HtmlCSS.eb2a77fe.jpeg",
@@ -10,6 +10,7 @@
   "static/media/flask.png": "static/media/flask.09c81258.png",
   "static/media/git.png": "static/media/git.af24747f.png",
   "static/media/linux.jpg": "static/media/linux.a10478e2.jpg",
+  "static/media/me.png": "static/media/me.58a2ae41.png",
   "static/media/portfolio.png": "static/media/portfolio.5a01d44e.png",
   "static/media/python.png": "static/media/python.2323f87c.png",
   "static/media/react_js.png": "static/media/react_js.bb08989c.png",
